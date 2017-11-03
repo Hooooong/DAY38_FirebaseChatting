@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">파채팅</string>
+    <string name="title_activity_room_list">RoomListAction</string>
+    <string name="sign_in">로그인</string>
+    <string name="sign_out">로그아웃</string>
+    <string name="sign_up">회원가입</string>
+    <string name="password">비밀번호</string>
+    <string name="email">이메일</string>
+    <string name="phone_number">전화번호</string>
+    <string name="password_repeat">비밀번호 검증</string>
+    <string name="detail_sign_in">가입</string>
+    <string name="name">이름 또는 닉네임</string>
+</resources>

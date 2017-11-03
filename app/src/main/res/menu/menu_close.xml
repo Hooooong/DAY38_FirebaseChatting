@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_close"
+        android:icon="@drawable/ic_close_black"
+        android:title="Back"
+        app:showAsAction="always"
+        />
+
+    <!-- never : 아이콘을 나타내지 않고 ... 으로 표현-->
+    <!-- ifRoom : 아이콘을 표현하고, 공간이 없으면 .... 으로 표현-->
+    <!-- always : 항상 아이콘으로 표시-->
+
+</menu>

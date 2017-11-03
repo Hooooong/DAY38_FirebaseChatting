@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseChatting</string>
+    <string name="title_activity_room_list">RoomListActivity</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="password">PASSWORD</string>
+    <string name="email">EMAIL</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="password_repeat">PASSWORD REPEAT</string>
+    <string name="detail_sign_in">SIGN IN</string>
+    <string name="name">NAME or NICKNAME</string>
+</resources>
